@@ -1,3 +1,4 @@
+<img id="banner" src="https://www.samsoftech.in/images/website.gif" alt="Website Banner" width="1000" height="200">
 <h1 align="center">Hi 👋, I'm Labib Azad</h1>
 <h3 align="center">I am a Web Developer, adept at crafting innovative solutions for real-world challenges.</h3>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJlN2IyczVtcnRpMnc0NmhweG5qcDh1MzhnYm1lNGFlbjF2d3FsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF" width="400">
