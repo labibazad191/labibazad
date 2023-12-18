@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=labibazad191" alt="labibazad191" /></a> </p>
 
-- 🔭 I’m currently working Software Development Team Lead on **PresKibo**
+- 🔭 I’m currently working as Software Development Team Lead on **PresKibo**
 
 - 🌱 I’m currently learning **Machine Learning**
 
