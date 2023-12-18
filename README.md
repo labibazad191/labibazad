@@ -21,9 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/labib azad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="labib azad" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/labib-azad-0822441b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="labib azad" height="30" width="40" /></a>
 <a href="https://kaggle.com/labibazad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="labibazad" height="30" width="40" /></a>
-<a href="https://fb.com/labib azad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="labib azad" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/labibazad61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="labibazad61" height="30" width="40" /></a>
 </p>
 
